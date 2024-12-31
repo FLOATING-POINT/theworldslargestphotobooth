@@ -1,0 +1,14 @@
+<controls>
+    <SliderFloat_vignetteSize>
+        <name>vignetteSize</name>
+        <value>1369.589966</value>
+    </SliderFloat_vignetteSize>
+    <SliderFloat_Colour_gain_>
+        <name>Colour gain </name>
+        <value>1.040000</value>
+    </SliderFloat_Colour_gain_>
+    <SliderInt_Min_Head_Size_>
+        <name>Min Head Size </name>
+        <value>56</value>
+    </SliderInt_Min_Head_Size_>
+</controls>

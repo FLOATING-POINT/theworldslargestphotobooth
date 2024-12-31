@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="..\..\..\addons_nonCore\CanonCameraWrapper\CanonCameraWrapper.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="20795" topLine="642" />
+	</File>
+	<File name="..\..\..\addons_nonCore\CanonCameraWrapper\CanonCameraWrapper.h" open="0" top="0" tabpos="8">
+		<Cursor position="4071" topLine="132" />
+	</File>
+	<File name="..\..\..\addons_nonCore\ofxHttpUtils\src\ofxHttpUtils.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="988" topLine="34" />
+	</File>
+	<File name="..\..\..\addons_nonCore\ofxHttpUtils\src\ofxHttpUtils.h" open="0" top="0" tabpos="0">
+		<Cursor position="1636" topLine="62" />
+	</File>
+	<File name="..\..\..\addons_nonCore\ofxLUT\src\ofxLUT.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1157" topLine="51" />
+	</File>
+	<File name="src\empty.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\empty.h" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="317" topLine="0" />
+	</File>
+	<File name="src\photoboothFilter.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="53" />
+	</File>
+	<File name="src\photoboothFilter.h" open="1" top="0" tabpos="6">
+		<Cursor position="541" topLine="8" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="6943" topLine="195" />
+	</File>
+	<File name="src\testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="1863" topLine="36" />
+	</File>
+</CodeBlocks_layout_file>

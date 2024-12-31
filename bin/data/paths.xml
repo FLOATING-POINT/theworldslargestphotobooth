@@ -1,0 +1,4 @@
+<paths>
+	<prmachine>//SAMSUNG04/photobooth/wamp/www/photobooth3/projectionapp/imgs/</prmachine>
+	<uploadscript>http://localhost/photobooth3/upload.php</uploadscript>
+</paths>
